@@ -1,0 +1,6 @@
+@ChubbyBunniesLevels.Api_HostAddress = http://localhost:5173
+
+GET {{ChubbyBunniesLevels.Api_HostAddress}}/health
+Accept: application/json
+
+###

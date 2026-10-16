@@ -1,0 +1,37 @@
+# Build
+bin/
+obj/
+out/
+
+# `dotnet publish` output and zipdeploy packages (Azure / local deploy)
+publish/
+deploy.zip
+
+# Compiled assemblies (outputs are under bin/obj; this also ignores stray .dll copies)
+*.dll
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.sln.iml
+
+# macOS
+.DS_Store
+
+# Local level data and tool outputs (not versioned) — mirrors MochiSortLevels' layout
+# for when the level engine is ported in
+Levels/
+TestLevelsResults/
+Results/
+GeneratedLevels/
+
+# Tests / coverage (if added later)
+TestResults/
+coverage/
+*.coverage
+*.coveragexml

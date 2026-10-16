@@ -1,0 +1,19 @@
+{
+  "users": [
+    { "email": "hagay@mochi-labs.com", "password": "123456", "role": "Admin" },
+    { "email": "nisar@mochi-labs.com", "password": "123456", "role": "Admin" },
+    { "email": "yoav@mochi-labs.com", "password": "123456", "role": "Admin" },
+    { "email": "hagay.azar@gmail.com", "password": "123456", "role": "User" },
+    { "email": "nisar.gesdrive@gmail.com", "password": "123456", "role": "User" },
+    { "email": "Falk.SMASH@gmail.com", "password": "123456", "role": "User" },
+
+    { "email": "tal.yalin@unity3d.com", "password": "talyalin", "role": "User" },
+    { "email": "julien.calvo@unity3d.com", "password": "julien", "role": "User" },
+    { "email": "danielle.cohen@unity3d.com", "password": "danielle", "role": "User" },
+    { "email": "omer.berman@unity3d.com", "password": "omer", "role": "User" },
+
+    { "email": "pandi@mochi-labs.com", "password": "pandi", "role": "User" },
+    { "email": "Schalkaroni@gmail.com", "password": "roni", "role": "User" }
+
+  ]
+}
